@@ -1,0 +1,5 @@
+{
+  "name": "Suma y Resta de Fracciones Visual",
+  "description": "App interactiva para enseñar suma y resta de fracciones usando el método gráfico de cortes horizontales y verticales.",
+  "requestFramePermissions": []
+}
